@@ -251,7 +251,7 @@ textarea {
 .inline-image {
     width: 7rem;
     height: 7rem;
-    background: url('../images/hero_image.jpg') top center no-repeat;
+    background: url('../images/alternate_hero_image.png') top center no-repeat;
     background-size: cover;
     border-radius: 50%;
     border-bottom-left-radius: 0;
@@ -314,7 +314,7 @@ textarea {
     width: 25rem;
     height: 25rem;
     margin: 0 auto;
-    transform: rotate(25deg);
+    transform: rotate(-5deg);
 }
 
 .description-image img {
