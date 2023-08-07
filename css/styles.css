@@ -698,4 +698,23 @@ textarea {
     .footer-container {
         padding-block: 5rem;
     }
+
+    
+}
+
+
+@media screen and (max-width: 768px) {
+
+    /* adjust layout to wrap in column direction on 'tablet' or less and lessen image scaling */
+
+    .card-image {
+        flex-direction: column;
+        padding: 1.5rem;
+    }
+
+    .card-image img {
+        width: 75%;
+        height: 750%;
+    }
+
 }
