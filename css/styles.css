@@ -479,11 +479,13 @@ textarea {
 
 .card-title {
     font-size: 2rem;
+    color: #363636;
 }
 
 .card-subtitle {
     font-size: 1.4rem;
     opacity: .8rem;
+    color: #363636;
 }
 
 .large-button-container {
